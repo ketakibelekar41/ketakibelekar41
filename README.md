@@ -4,11 +4,11 @@
 
 <h2 align="center"><i> I am a front-end  developer passionate about building robust, responsive websites & modern web application </i></h2>
 
-<h4>Here are some ideas to get you started:</h4>
+<h4>I'm here to Introduce myself, Lets start:</h4>
+
 
 - 🔭 I’m currently working on React js
 - 🌱 I’m currently learning AWS 
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about anything related to React js frontend & related technologies
 - 📫 How to reach me: https://www.linkedin.com/in/ketakibelekar/
 - ⚡ Fun fact: "I commit directly to main and live on the edge." 😎
